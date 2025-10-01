@@ -1,0 +1,50 @@
+{
+    "job_id": "OPRA-20250930-FLBREPPKMB",
+    "files": [
+        {
+            "filename": "condition.json",
+            "size": 122,
+            "hash": "sha256:6047e5bd8d3372c51274af9bca42efcebf2a3eba810865ed7d963521a7716ed8",
+            "urls": {
+                "https": "https://api.databento.com/v0/batch/download/SP89X539/OPRA-20250930-FLBREPPKMB/condition.json",
+                "ftp": "ftp://ftp.databento.com/SP89X539/OPRA-20250930-FLBREPPKMB/condition.json"
+            }
+        },
+        {
+            "filename": "metadata.json",
+            "size": 686,
+            "hash": "sha256:4ffe092b419c5e28453fd144571f9920e3af99168ef7a2584ccb1de1c2b4b219",
+            "urls": {
+                "https": "https://api.databento.com/v0/batch/download/SP89X539/OPRA-20250930-FLBREPPKMB/metadata.json",
+                "ftp": "ftp://ftp.databento.com/SP89X539/OPRA-20250930-FLBREPPKMB/metadata.json"
+            }
+        },
+        {
+            "filename": "symbology.json",
+            "size": 1548266,
+            "hash": "sha256:29482edd02d025d9a8d597ed8638bb34362ea1007d91b8e770ee73c8adc270b3",
+            "urls": {
+                "https": "https://api.databento.com/v0/batch/download/SP89X539/OPRA-20250930-FLBREPPKMB/symbology.json",
+                "ftp": "ftp://ftp.databento.com/SP89X539/OPRA-20250930-FLBREPPKMB/symbology.json"
+            }
+        },
+        {
+            "filename": "symbology.csv",
+            "size": 378430,
+            "hash": "sha256:ca08dfc1dbeea9a1ee54262a7dfb6fd35792ac673af2f2ce781ad8c322fe4024",
+            "urls": {
+                "https": "https://api.databento.com/v0/batch/download/SP89X539/OPRA-20250930-FLBREPPKMB/symbology.csv",
+                "ftp": "ftp://ftp.databento.com/SP89X539/OPRA-20250930-FLBREPPKMB/symbology.csv"
+            }
+        },
+        {
+            "filename": "opra-pillar-20250320.ohlcv-1d.csv",
+            "size": 2743181,
+            "hash": "sha256:5616f915fad61dbae8e622b5a8595d83660ed289a0c8ba7305a2ee2eb4e877eb",
+            "urls": {
+                "https": "https://api.databento.com/v0/batch/download/SP89X539/OPRA-20250930-FLBREPPKMB/opra-pillar-20250320.ohlcv-1d.csv",
+                "ftp": "ftp://ftp.databento.com/SP89X539/OPRA-20250930-FLBREPPKMB/opra-pillar-20250320.ohlcv-1d.csv"
+            }
+        }
+    ]
+}
